@@ -1,3 +1,4 @@
 numero=input()
-print(int(numero)*2)
+print("Hola Mundo",int(numero)*2)
 cuenta=0
+print("Hola Mundo")
